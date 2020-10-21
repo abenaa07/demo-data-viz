@@ -13,4 +13,3 @@ We can use pandas to query from a postgres sql database. Pandas is very versitil
 - [Create ERD Diagrams from databaes already created](https://pypi.org/project/ERAlchemy/)
 - [Pandas Tutorial Guide](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)
 - [Read SQL Query Function](https://pandas.pydata.org/pandas-docs/version/0.22.0/generated/pandas.read_sql_query.html)
-
